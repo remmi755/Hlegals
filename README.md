@@ -1,4 +1,6 @@
 # Hlegals
- https://remmi755.github.io/Hlegals/
 
- ![blog-mern](https://github.com/remmi755/blog-mern/blob/master/blog-MERN.jpg)
+
+ ![hlegals](https://github.com/remmi755/Hlegals/blob/master/Hlegals1.jpg)
+ ![hlegals](https://github.com/remmi755/Hlegals/blob/master/Hlegals2.jpg)
+ ![hlegals](https://github.com/remmi755/Hlegals/blob/master/Hlegals3.jpg)
